@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "arnie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32632" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "nome": "Ranica" }, "geometry": { "type": "Point", "coordinates": [ 555456.643432374577969, 5064017.61036775354296 ] } }
+]
+}
